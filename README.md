@@ -1,6 +1,10 @@
 <h1>Bypass IP Ban on OmeTV</h1>
 <p>This guide walks you through how to bypass an IP ban on OmeTV. Whether you're using the app on mobile or the website on desktop, this method resets your IP and clears any traceable data so you can get back online quickly.</p>
-<img src="https://img.shields.io/badge/Read%20the%20full%20guide%20here-blue?style=for-the-badge" alt="Read the full guide here" onclick="window.location.href='https://slothytech.com/ip-ban/'" style="cursor: pointer;">
+<p>
+  <a href="https://slothytech.com/ip-ban/" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20the%20full%20guide%20here-blue?style=for-the-badge" alt="Read the full guide here" style="cursor: pointer;">
+  </a>
+</p>
 
 <h2>Key Points</h2>
 <ul>
